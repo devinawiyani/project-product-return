@@ -6,4 +6,4 @@ This project purpose is to create an application for review segmentation and app
 - [ ] Data Collection
 
 # Created with 
-* [![[Selenium](https://www.selenium.dev/)https://www.selenium.dev/]]
+* [![Next][Next.js]][Next-url]
