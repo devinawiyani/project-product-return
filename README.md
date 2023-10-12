@@ -5,5 +5,4 @@ This project purpose is to create an application for review segmentation and app
 # Checklist 👌
 - [ ] Data Collection
 
-# Created with 
-* [![Next][Next.js]][Next-url]
+
